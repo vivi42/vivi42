@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Viviane
+- 👋 Hi, I’m Vivi
 - 🎓 Computer Science 
 - 💻 Fullstack developer, working with Docker/PHP/Joomla/MySQL, Vue.js, HTML, CSS, Javascript
 - ✨ Experience with Koha Library Software and VuFind- 
