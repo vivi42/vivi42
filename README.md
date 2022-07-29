@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivi
 - 🎓 Computer Science 
 - 💻 Fullstack developer, working with Docker/PHP/Joomla/MySQL, Vue.js, HTML, CSS, Javascript
-- ✨ Experience with Koha Library Software and VuFind- 
+- ✨ Experience with Koha Library Software and VuFind
 - 🌱 I’m currently learning Python, Data Science and Typescript
 
 
