@@ -2,8 +2,8 @@
 - 🎓 Computer Science 
 - 💻 Fullstack developer, proficient in Docker/PHP/Joomla/MySQL, Vue.js, HTML, CSS, Javascript
 - 📚 Experience with Koha Library Software and VuFind
-- ✨
-- 🌱 Currently expanding skills in Python and Data Science
-- 👀 I’m interested in Philosophy, Books, Finance
+- ✨ Currently working with internal control, integrity program, and compliance.
+- 🌱 Expanding skills in Python and Data Science
+- 👀 Interested in Philosophy, Books, Finance
 - 📫 How to reach me ...
 
